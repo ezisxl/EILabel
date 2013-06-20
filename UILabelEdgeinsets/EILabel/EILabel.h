@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Ansis Lasmanis. All rights reserved.
 //
 //
-//      ALL CREDIT FOR THE IDEA GOEST TO Nick Schneble (http://userflex.wordpress.com/)
+//      ALL CREDIT FOR THE IDEA GOES TO Nick Schneble (http://userflex.wordpress.com/)
 //
 //
 
